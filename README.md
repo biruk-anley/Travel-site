@@ -1,6 +1,6 @@
 # Project-Travel-site
-  this is website for those who want to travel Ethiopian orthodox church
-    ::html
-    ::css
+  This is website for those who want to travel Ethiopian orthodox church <br>
+    ::html<br>
+    ::css<br>
     ::javaScript
 
